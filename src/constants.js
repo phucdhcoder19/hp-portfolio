@@ -40,6 +40,7 @@ import fptLogo from "./assets/fptLogo.png";
 // Project Section Logo's
 import rental from "./assets/work_logo/rental.png";
 import autoPostLogo from "./assets/work_logo/autopost.png";
+import gender from "./assets/work_logo/gender.jpg";
 
 export const SkillsInfo = [
   {
@@ -154,7 +155,7 @@ export const projects = [
     title: "Gender Health Care System",
     description:
       "A comprehensive web application for gender health care management. Users can book consultations with doctors, track appointments, and access personalized health information. Managers can oversee schedules, approve bookings, and manage doctors' availability, ensuring smooth operation and efficient healthcare services.",
-    image: autoPostLogo,
+    image: gender,
     tags: ["Node JS", "React JS", "REST API", "Tailwind CSS", "MongoDB"],
     github: "https://github.com/phucdhcoder19/rental-app",
     webapp: "https://your-live-site.com",

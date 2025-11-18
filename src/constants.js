@@ -100,7 +100,7 @@ export const experiences = [
     img: fptLogo,
     role: "Fullstack Developer",
     company: "FPT Software",
-    date: "2023 - 2024",
+    date: "1/6/2025 - 1/1/2026 (Internship)",
     desc: "Worked as a Fullstack Developer focusing on enterprise-level web applications. Built and maintained frontend features using Vue.js and implemented backend services with Node.js and Express. Collaborated with cross-functional teams in an Agile/Scrum environment, optimized UI performance, integrated RESTful APIs, and developed scalable modules based on business requirements.",
     skills: [
       "Vue.js",

@@ -31,7 +31,7 @@ const About = () => {
           <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mb-4 text-[#8245ec] leading-tight">
             <span className="text-white">I am a </span>
             <ReactTypingEffect
-              text={["Fullstack Developer", "App Developer", "Coder"]}
+              text={["Back End Developer", "Fullstack Developer", "App Developer"]}
               speed={100}
               eraseSpeed={50}
               typingDelay={500}
@@ -43,17 +43,18 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a full-stack developer with over 1 years of experience in
-            building scalable web applications. Skilled in both front-end and
-            back-end development, I specialize in the MERN stack and other
-            modern technologies to create seamless user experiences and
-            efficient solutions.
+            I'm a fourth-year Software Engineering student with solid hands-on
+            experience in full-stack web development using Node.js and React.js.
+            I'm passionate about building scalable, user-friendly web
+            applications and enjoy solving real-world problems through clean and
+            efficient code. I actively explore modern technologies, including
+            integrating AI solutions into full-stack systems to enhance
+            functionality, automation, and user experience.
           </p>
           {/* Resume Button */}
           <a
-            href=""
-            target="_blank"
-            rel="noopener noreferrer"
+            href="/DinhHoangPhuc_CV.pdf"
+            download="DinhHoangPhuc_CV.pdf"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
             style={{
               background: "linear-gradient(90deg, #8245ec, #a855f7)",
